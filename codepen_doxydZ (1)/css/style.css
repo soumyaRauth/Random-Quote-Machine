@@ -1,0 +1,25 @@
+button{
+  margin-left:620px;
+  margin-top:40px;
+  padding:10px;
+  border-radius:5%;
+}
+.subhead{
+  
+  margin-top:30px;
+}
+
+.thequote{
+  background-color:#9966FF;
+  width:600px;
+  height:auto;
+  margin:20px auto;
+  text-align:center;
+  border-radius:0%;
+  color:white;
+  font-weight:bold;
+  font-size:20pt;
+}
+body{
+  background:url("http://bit.ly/1WMxfnX");
+}
